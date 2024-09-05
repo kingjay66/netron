@@ -18,7 +18,7 @@
         "server": "python ./publish/python.py build start"
     },
     "dependencies": {
-        "electron-updater": "5.3.0"
+        "electron-updater": "6.3.0"
     },
     "devDependencies": {
         "electron": "21.2.2",
